@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Wagon
+  - Save
+  - RestartTrigger
+  - CamCollider
+  - Water
+  - Enemy
+  - Hint
+  - Dog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - VCAM
+  - Walls
+  - Ground
+  - Ceilling
+  - Platform
+  - Wheels
+  - WagonFloor
+  - Enemy
+  - Damageable
+  - Projectile
+  - Ghost
+  - Souls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1086719743
+    locked: 0
+  - name: Middleground
+    uniqueID: 2283226915
+    locked: 0
+  - name: Props
+    uniqueID: 1137787729
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Characters
+    uniqueID: 3914596917
+    locked: 0
+  - name: Water
+    uniqueID: 2675703077
+    locked: 0
+  - name: Platforms
+    uniqueID: 432016057
+    locked: 0
